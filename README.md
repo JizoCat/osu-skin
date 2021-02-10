@@ -1,6 +1,6 @@
 # osu!skins
 
-all links are google drive
+repository of skins mmmmmmmm
 
 ### Cool Skins
 
